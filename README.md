@@ -4,6 +4,10 @@
 
 Mini-CRM is Laravel and Ajax based CRUD system, here Admin can use this functionlity for Company and Employees.
 
+## Login Details - Admin
+    - **Email** admin@admin.com
+    - **Password** password
+
 ## About Author
 
 <h1 align="center">Hi 👋, I'm Sk Niyaj Ali</h1>
